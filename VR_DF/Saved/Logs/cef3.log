@@ -1,0 +1,5 @@
+[1128/210236.921:ERROR:os_crypt_win.cc(93)] Failed to decrypt: Clave no válida para utilizar en el estado especificado. (0x8009000B)
+[1128/210437.240:ERROR:gpu_init.cc(426)] Passthrough is not supported, GL is disabled
+[1128/220046.066:WARNING:gpu_process_host.cc(1296)] The GPU process has crashed 1 time(s)
+[1128/220315.839:ERROR:network_service_instance_impl.cc(330)] Network service crashed, restarting service.
+[1128/220316.170:WARNING:gpu_process_host.cc(1016)] Reinitialized the GPU process after a crash. The reported initialization time was 232 ms
